@@ -3,12 +3,11 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: '/phemi',
   siteMetadata: {
     title: `Personal Site`,
     description: `My personal site`,
      author: `@KaiserPhemi`,
-    siteUrl: `https://phemi.dev`,
+    siteUrl: `https://www.phemi.dev`,
   },
   plugins: [
     `gatsby-plugin-image`,
